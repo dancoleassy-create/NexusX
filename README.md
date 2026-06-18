@@ -1,7 +1,5 @@
-# NexusX
-
 ## Описание
-Delta Menu - многофункциональное меню для Roblox с поддержкой ESP, Aimbot и других фич.
+NexusX - многофункциональное меню для Roblox с поддержкой ESP, Aimbot и других фич.
 
 ## Функции
 - RENDER: Fullbright, FPS, Optimization, MiniMap
